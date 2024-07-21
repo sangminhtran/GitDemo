@@ -18,5 +18,9 @@ print(driver.current_url)            # print url của web hiện tại
 print("Hello1")
 print("Hello2")
 print("Hello3")
+# Okila haha
+print("Hello4")
+print("Hello5")
+print("Hello6")
 
 time.sleep(2)                # sau khi run xong selenium sẽ tự đóng browser nên cần time delay

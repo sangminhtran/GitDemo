@@ -17,6 +17,7 @@ action.move_to_element(driver.find_element(By.ID, 'mousehover')).perform()  # mo
 #action.context_click(driver.find_element(By.LINK_TEXT, "Top")).perform()  # click phải
 action.move_to_element(driver.find_element(By.LINK_TEXT, 'Reload')).click().perform()
 
+# Here is new comment
 
 
 time.sleep(3)
