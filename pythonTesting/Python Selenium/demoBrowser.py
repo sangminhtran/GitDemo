@@ -15,5 +15,8 @@ driver.maximize_window()
 print(driver.title)                # print title của web
 print(driver.current_url)            # print url của web hiện tại
 
+print("Hello1")
+print("Hello2")
+print("Hello3")
 
 time.sleep(2)                # sau khi run xong selenium sẽ tự đóng browser nên cần time delay
