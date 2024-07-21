@@ -1,0 +1,9 @@
+venv/
+env/
+.venv/
+Pipfile.lock
+poetry.lock
+idea/
+.DS_Store
+*.log
+.env
