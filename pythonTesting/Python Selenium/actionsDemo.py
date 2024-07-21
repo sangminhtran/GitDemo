@@ -19,5 +19,9 @@ action.move_to_element(driver.find_element(By.LINK_TEXT, 'Reload')).click().perf
 
 # Here is new comment
 
+print("Sang")
+print("Nha")
+print("Tran")
+
 
 time.sleep(3)

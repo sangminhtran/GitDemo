@@ -16,5 +16,7 @@ driver.find_element(By.ID, 'alertbtn').click()
 alert = driver.switch_to.alert  # switch sang alert (ko thể inspect vì alert java/js ko phải html)
 alertText = alert.text
 print(alertText)
+print(alertText)
+print(alertText)
 assert name in alertText
 alert.accept()  # accept() = OK, dismiss() = Cancel
